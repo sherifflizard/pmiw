@@ -1,8 +1,9 @@
 //// Rossi Francisca
 //Comi 4
-//Link de youtube 1: https://www.youtube.com/watch?v=DrOq9FPl7IU&ab_channel=FranciscaRossi
-//Link de youtube 2: https://youtu.be/pYuhT9ZjnAA
 // Trabajo practico anterior https://github.com/sherifflizard/ipmi/tree/tprec/tp3
+
+
+//NUEVO trabajo practico: https://youtu.be/504YoIf8GBo
 
 //------------------------------------
 
