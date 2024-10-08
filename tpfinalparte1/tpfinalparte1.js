@@ -1,5 +1,5 @@
-let anchoPantalla = 800;
-let altoPantalla = 600;
+let anchoPantalla = 640;
+let altoPantalla = 480;
 let anchoTexto;
 let tamTexto;
 let inicioTexto;
