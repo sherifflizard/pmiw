@@ -8,6 +8,8 @@ let posTextoActual = 0;
 let posXBoton;
 let posYBoton;
 
+let PANTALLAS;
+
 function preload() {
   img1 = loadImage("data/img1.webp");
   misTextos = loadStrings('data/aventura.txt');
@@ -15,6 +17,7 @@ function preload() {
 
 function setup() {
   createCanvas(anchoPantalla, altoPantalla);
+  PANTALLAS = "pant1";
 }
 
 function draw() {
