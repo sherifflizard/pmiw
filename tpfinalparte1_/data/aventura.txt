@@ -1,15 +1,15 @@
-Eres pazu, un niño minero, de repente ves a una niña que cae del cielo y su collar brilla.
-Su nombre es Sheeta, decides contarle del mito de Laputa, el cual parece interesarle.
-Pero de la nada, un grupo de piratas aparece, ¡Rapido, hay que escapar!
-Decides.....¿tomar el tren para escapar?
-El gobierno no parece ser quienes aparentan, asi que deciden escapar y ¡PUM! accidentalmente caes junto a sheeta dentro de las minas.
-Caminando en la oscuridad, una familiar figura aparece, tu tio, el cual los ayuda a calmarse contándoles mas sobre Laputa.
-En medio de la charla, el líder de los militares, MOOSKA, aparece, de repente….todo se vuelve oscuro.
-Te despiertas en un lugar desconocido, Mooska te da una opción, irte y olvidarlo todo a cambio de dinero.
-Vuelves desamparado y triste, para el dolor del corazon no hay nada mejor que....
-Decides que irte a casa es lo mejor, pero cuando llegas....¡los piratas están aquí!
-Tu decides que vas a...
-Pides ayuda a los piratas, tu valentía y buen corazon los convence...¡bienvenido al equipo!
+txt1  Eres pazu, un niño minero, de repente ves a una niña que cae del cielo y su collar brilla.
+txt2  Su nombre es Sheeta, decides contarle del mito de Laputa, el cual parece interesarle.
+txt3  Pero de la nada, un grupo de piratas aparece, ¡Rapido, hay que escapar!
+txt4  Decides.....¿tomar el tren para escapar?
+txt5  El gobierno no parece ser quienes aparentan, asi que deciden escapar y ¡PUM! accidentalmente caes junto a sheeta dentro de las minas.
+txt6  Caminando en la oscuridad, una familiar figura aparece, tu tio, el cual los ayuda a calmarse contándoles mas sobre Laputa.
+txt7  En medio de la charla, el líder de los militares, MOOSKA, aparece, de repente….todo se vuelve oscuro.
+txt8  Te despiertas en un lugar desconocido, Mooska te da una opción, irte y olvidarlo todo a cambio de dinero.
+txt9  Vuelves desamparado y triste, para el dolor del corazon no hay nada mejor que....
+txt10  Decides que irte a casa es lo mejor, pero cuando llegas....¡los piratas están aquí!
+txt11  Tu decides que vas a...
+txt12  Pides ayuda a los piratas, tu valentía y buen corazon los convence...¡bienvenido al equipo!
 
 
 
