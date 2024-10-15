@@ -10,6 +10,18 @@ txt9  Vuelves desamparado y triste, para el dolor del corazon no hay nada mejor 
 txt10  Decides que irte a casa es lo mejor, pero cuando llegas....¡los piratas están aquí!
 txt11  Tu decides que vas a...
 txt12  Pides ayuda a los piratas, tu valentía y buen corazon los convence...¡bienvenido al equipo!
-
-
+txt13  Cuando estas llegando en la avioneta, ves a lo lejos como un robot esta destruyendo todo.
+txt14  Consigues agarrar a Sheeta y subirla a la avioneta, huyes junto con los piratas creando una pantalla de humo.
+txt15  Sheeta quiere ir a toda costa a Laputa ya que sabe que MOOSKA es peligroso si la encuentra antes, ¿Le pides ayuda a Dora para que los lleve a Laputa?
+txt16  Los piratas acceden a cambio de que ustedes hagan tareas a cambio.
+txt17  Gracias a un Ala Delta de los piratas llegas a una zona tormentosa, dentro esta Laputa.
+txt18  Exploran un poco, sienten un gran estruendo. El Goliat ha llegado, pero tambien la Polilla del Tigre.
+txt19  Vas a liberar a los piratas pero se percatan de ti y abren fuego. Cuando se van los desatas y Dora te da una pistola.
+txt20  Luego vas por unos pasadizos hasta que te encuentras con Sheeta, ella te da la piedra.
+txt21  MOOSKA aparece y los amenaza con que les de la piedra. Mientars los dos agarran la piedra, Sheeta conjura la destrucción de Laputa.
+txt22  Luego del resplandor despiertas con Sheeta entre raices
+txt23  Ven el Ala Delta y salen planeando rapidamente, ven a los piratas y te diriges a ellos.
+txt24  Todos estan bien, ven como Laputa se eleva cada vez más.
+txt25  ¿Te quedas con los piratas o vuelves a tu pueblo?
+txt26  Sheeta y tu van a sus hogares mientras los piratas se despiden.
 
