@@ -1,3 +1,25 @@
+// CONF PANTALLA
+let anchoPantalla = 640;
+let altoPantalla = 480;
+
+// CONF TEXTO
+let anchoTexto;
+let tamTexto;
+let inicioTexto;
+let posTextoActual = 0;
+let colortext;
+
+// IMAGENES
+let imagenes = [];
+let cant =1;
+
+let cuadrado;
+
+let PANTALLAS;
+
+
+
+
 function reload(){
 
   //anchoPantalla * 0.020;
