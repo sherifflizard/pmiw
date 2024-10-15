@@ -31,6 +31,3 @@ txt30(GritarAuxilio)  los piratas se escapan delante tuyo. (txt29)
 txt31(AyudaDora?NO)  Los piratas solo les importa el tesoro porque los deja en su hogar y se largan. Ahora ustedes se replantean su busqueda.
 txt32(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
 txt33(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
-
-
-
