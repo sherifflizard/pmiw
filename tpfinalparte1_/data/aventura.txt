@@ -5,10 +5,10 @@ txt4  Decides.....¿tomar el tren para escapar?
 txt5  El gobierno no parece ser quienes aparentan, asi que deciden escapar y ¡PUM! accidentalmente caes junto a sheeta dentro de las minas.
 txt6  Caminando en la oscuridad, una familiar figura aparece, tu tio, el cual los ayuda a calmarse contándoles mas sobre Laputa.
 txt7  En medio de la charla, el líder de los militares, MOOSKA, aparece, de repente….todo se vuelve oscuro.
-txt8  Te despiertas en un lugar desconocido, Mooska te da una opción, irte y olvidarlo todo a cambio de dinero.
+txt8  Te despiertas en un lugar desconocido, Mooska te da una opción, irte y olvidarlo todo a cambio de dinero ¿Lo haces?
 txt9  Vuelves desamparado y triste, para el dolor del corazon no hay nada mejor que....
 txt10  Decides que irte a casa es lo mejor, pero cuando llegas....¡los piratas están aquí!
-txt11  Tu decides que vas a...
+txt11  ¿Gritas por auxilio o le pides ayuda a los piratas para encontrar a Sheeta?
 txt12  Pides ayuda a los piratas, tu valentía y buen corazon los convence...¡bienvenido al equipo!
 txt13  Cuando estas llegando en la avioneta, ves a lo lejos como un robot esta destruyendo todo.
 txt14  Consigues agarrar a Sheeta y subirla a la avioneta, huyes junto con los piratas creando una pantalla de humo.
@@ -23,5 +23,14 @@ txt22  Luego del resplandor despiertas con Sheeta entre raices
 txt23  Ven el Ala Delta y salen planeando rapidamente, ven a los piratas y te diriges a ellos.
 txt24  Todos estan bien, ven como Laputa se eleva cada vez más.
 txt25  ¿Te quedas con los piratas o vuelves a tu pueblo?
-txt26  Sheeta y tu van a sus hogares mientras los piratas se despiden.
+txt26  Sheeta y tu van a sus hogares mientras los piratas se despiden. (FIN)
+txt27(Tren?NO)  Al no tomar el tren corren, pero son atrapados por los piratas.
+txt28(Tren?NO)  El gobierno aparece y los rescata, llevandolos a una base militar, los separan y MOOSKA te ofrece dinero a cambio de que olivides todo y te vayas. (txt9)
+txt29(Irte-Olvidar)  Vuelves a tu trabajo de minero triste y preocupado, pero sabes que esto es mas grande que vos. (FIN)
+txt30(GritarAuxilio)  los piratas se escapan delante tuyo. (txt29)
+txt31(AyudaDora?NO)  Los piratas solo les importa el tesoro porque los deja en su hogar y se largan. Ahora ustedes se replantean su busqueda.
+txt32(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
+txt33(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
+
+
 
