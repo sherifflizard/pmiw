@@ -8,22 +8,24 @@ let tamTexto;
 let inicioTexto;
 let posTextoActual = 0;
 let colortext;
+let misTextos = [];
+
 
 // IMAGENES
 let imagenes = [];
-let cant =1;
-
-let cuadrado;
-
-let PANTALLAS;
+let cant =4;
 
 
+//indicacion de estado
+let pantallaactiva = "pantalla1";
 
+
+
+
+
+//--------------------------
 
 function reload(){
-
-  //anchoPantalla * 0.020;
-  //anchoPantalla * 0.8
   anchoTexto = anchoPantalla * 0.8;
   tamTexto = altoPantalla * 0.05;
   inicioTexto = 10;
@@ -31,10 +33,16 @@ function reload(){
   textSize(tamTexto);
 }
 
+
+//-------
 function mouseClicked(){
   posTextoActual++;
 }
 
+//-------
+function obtenerTextActual(){
+  return posTextoActual;
+}
 function obtenerTextActual(){
   return posTextoActual;
 }
