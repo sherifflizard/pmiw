@@ -1,61 +1,77 @@
 
+let panta = {
+  "principio" : "holi",
+  "pantalla1" :
+"oooo",
+  "pantalla2":
+"kkkkkk",
+  "pantalla3":
+"aaaaaa",
+  }
+
+
+
+
+
+// --------PANTALLAS---------
+
+let pantallas ={
+  "principio" :
+[panta.pantalla1],
+  "pantalla1" :
+[panta.pantalla2],
+  "pantalla2" :
+[panta.pantalla3],
+
+
+  };
+
+//for (let i = 0; i< 33; i++) {
+//    Pantallas [i] = i++ ;
+
+
+
+//----------------
 function preload() {
+  // SONIDO
   soundFormats('mp3');
   soundFile = loadSound('data/ding.mp3');
 
-for (let i = 0; i< cant; i++) {
-  imagenes [i] = loadImage ("data/img" + i + ".jpg");
-}
 
-
+  // IMAGENES
+  for (let i = 0; i< cant; i++) {
+    imagenes [i] = loadImage ("data/img" + i + ".jpg");
+  }
+  //TEXTOS
   misTextos = loadStrings('data/aventura.txt');
 }
+
+//----------
+
 
 function setup() {
   createCanvas(anchoPantalla, altoPantalla);
 
-  cuadrado = rect(0, 400, anchoPantalla, 280);
+
 
   colortext = color (255);
 
-  PANTALLAS = "pant1";
+  reload();
 }
 
 function draw() {
   background(255);
 
-  // Estado: pantalla1
-  if (PANTALLAS === "pant1" ) {
-    image(imagenes[2], 0, 0, anchoPantalla, altoPantalla);
 
-    fill (0, 100, 100, 150);
-    noStroke();
-    rect(0, 400, anchoPantalla, 280);
-
-    fill (colortext);
-    stroke(2);
-    text(
-      misTextos[obtenerTextActual()], inicioTexto, 400, anchoTexto  );
-    reload();
-  } else if (PANTALLAS === "pant2" ) {
-   
-    fill (0, 20, 100);
-    noStroke();
-    rect(0, 400, anchoPantalla, 280);
-    fill (colortext);
-    stroke(2);
-    text(
-      misTextos[obtenerTextActual()], inicioTexto, 400, anchoTexto  );
-    reload();
-  }
+  pantallaa();
+  // CUADRADO
+  fill (0, 100, 100, 150);
+  noStroke();
+  rect(0, 400, anchoPantalla, 280);
 }
 
 
-function mousePressed() {
-  if (PANTALLAS=== "pant1" ) {
-    PANTALLAS = "pant2";
-  }
-}
+
 
 function mouseReleased() {
   if (!soundFile.isPlaying())
@@ -63,7 +79,14 @@ function mouseReleased() {
 }
 
 
-function mouseReleased() {
-  if (!soundFile.isPlaying())
-    soundFile.play();
+
+function pantallaa() {
+  if (pantallaactiva === "pantalla1") {
+    image(imagenes[1], 0, 0, anchoPantalla, altoPantalla);
+    fill(0);
+    text( misTextos[obtenerTextActual()], inicioTexto, 400, anchoTexto  );
+
+
+    reload();
+  }
 }
