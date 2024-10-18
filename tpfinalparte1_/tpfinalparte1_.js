@@ -1,33 +1,38 @@
+// CONF PANTALLA
+let anchoPantalla = 640;
+let altoPantalla = 480;
 
-let panta = {
-  "principio" : "holi",
-  "pantalla1" :
-"oooo",
-  "pantalla2":
-"kkkkkk",
-  "pantalla3":
-"aaaaaa",
-  }
+// CONF TEXTO
+let anchoTexto;
+let tamTexto;
+let inicioTexto;
+let posTextoActual = 0;
+let colortext;
+let misTextos = [];
 
 
+// IMAGENES
+let imagenes = [];
+let cant =4;
+
+
+//indicacion de estado
+let pantallaactiva = "principio";
+
+
+let boton1;
+let boton2;
+let clic = false;
 
 
 
 // --------PANTALLAS---------
 
-let pantallas ={
-  "principio" :
-[panta.pantalla1],
-  "pantalla1" :
-[panta.pantalla2],
-  "pantalla2" :
-[panta.pantalla3],
+let pantallas = ["principio"];
 
-
-  };
-
-//for (let i = 0; i< 33; i++) {
-//    Pantallas [i] = i++ ;
+for (let i = 1; i <= 22; i++) {
+  pantallas.push("pantalla" + i);
+}
 
 
 
@@ -52,19 +57,30 @@ function preload() {
 function setup() {
   createCanvas(anchoPantalla, altoPantalla);
 
-
-
   colortext = color (255);
 
   reload();
 }
 
+//---------------------
+
 function draw() {
   background(255);
 
 
-  pantallaa();
-  // CUADRADO
+// IFS DE PANTALLAAAAAAS 
+
+  if (pantallaactiva === "principio") {
+    pantallaempezar ();
+    
+    if (clic){
+      (pantallaactiva === "pantalla1");
+  }
+   else if 
+  
+
+
+
   fill (0, 100, 100, 150);
   noStroke();
   rect(0, 400, anchoPantalla, 280);
@@ -72,21 +88,26 @@ function draw() {
 
 
 
-
+//------------------------------------------
 function mouseReleased() {
   if (!soundFile.isPlaying())
     soundFile.play();
 }
 
 
+//------------------------------------------
+function mostrarpatalla (pantallaactiva, misTextos) {
+  image(imagenes[pantallaactiva], 0, 0, anchoPantalla, altoPantalla);
+  fill(0);
+  text( misTextos[pantallaactiva], inicioTexto, 400, anchoTexto  );
 
-function pantallaa() {
-  if (pantallaactiva === "pantalla1") {
-    image(imagenes[1], 0, 0, anchoPantalla, altoPantalla);
-    fill(0);
-    text( misTextos[obtenerTextActual()], inicioTexto, 400, anchoTexto  );
+
+  reload();
+}
 
 
-    reload();
-  }
+function mousePressed () {
+
+  clic= true;
+  console.log ("pantalla"+ pantallaactiva);
 }
