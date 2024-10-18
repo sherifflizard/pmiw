@@ -17,6 +17,6 @@ txt16(Tren?NO)  Al no tomar el tren corren, pero son atrapados por los piratas.
 txt17(Tren?NO)  El gobierno aparece y los rescata, llevandolos a una base militar, los separan y MOOSKA te ofrece dinero a cambio de que olivides todo y te vayas. (txt7)
 txt18(Irte-Olvidar)  Vuelves a tu trabajo de minero triste y preocupado, pero sabes que esto es mas grande que vos. (FIN)
 txt19(GritarAuxilio)  los piratas se escapan delante tuyo. (txt18)
-txt20(AyudaDora?NO)  Los piratas solo les importa el tesoro porque los deja en su hogar y se largan. Ahora ustedes se replantean su busqueda.
+txt20(AyudaDora?NO)  Los piratas solo les importa el tesoro por lo que los dejan en su hogar y se largan. Ahora ustedes se replantean su busqueda.
 txt21(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
 txt22(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
