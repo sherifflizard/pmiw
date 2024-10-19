@@ -72,18 +72,19 @@ function draw() {
 
   if (pantallaactiva === "principio") {
     pantallaempezar ();
-    
-    if (clic){
-      (pantallaactiva === "pantalla1");
-  }
-   else if 
+    b0t0n (220,280,200,50); 
+  //  if (clic){
+  //    (pantallaactiva === "pantalla1");
+  //}
   
+  }
 
 
 
-  fill (0, 100, 100, 150);
-  noStroke();
+ 
+   fill (0, 100, 100, 150);
   rect(0, 400, anchoPantalla, 280);
+  
 }
 
 
