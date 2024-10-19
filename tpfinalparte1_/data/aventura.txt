@@ -13,10 +13,11 @@ txt12  Luego vas por unos pasadizos hasta que te encuentras con Sheeta, ella te 
 txt13  Luego del resplandor despiertas con Sheeta entre raices. Ven el Ala Delta y salen planeando rapidamente, ven a los piratas y te diriges a ellos.
 txt14  Todos estan bien, ven como Laputa se eleva cada vez más. ¿Te quedas con los piratas o vuelves a tu pueblo?
 txt15  Sheeta y tu van a sus hogares mientras los piratas se despiden. (FIN)
-txt16(Tren?NO)  Al no tomar el tren corren, pero son atrapados por los piratas.
-txt17(Tren?NO)  El gobierno aparece y los rescata, llevandolos a una base militar, los separan y MOOSKA te ofrece dinero a cambio de que olivides todo y te vayas. (txt7)
-txt18(Irte-Olvidar)  Vuelves a tu trabajo de minero triste y preocupado, pero sabes que esto es mas grande que vos. (FIN)
-txt19(GritarAuxilio)  los piratas se escapan delante tuyo. (txt18)
-txt20(AyudaDora?NO)  Los piratas solo les importa el tesoro por lo que los dejan en su hogar y se largan. Ahora ustedes se replantean su busqueda.
-txt21(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
-txt22(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
+txt16  FIN.
+txt17(Tren?NO)  Al no tomar el tren corren, pero son atrapados por los piratas.
+txt18(Tren?NO)  El gobierno aparece y los rescata, llevandolos a una base militar, los separan y MOOSKA te ofrece dinero a cambio de que olivides todo y te vayas. (txt7)
+txt19(Irte-Olvidar)  Vuelves a tu trabajo de minero triste y preocupado, pero sabes que esto es mas grande que vos. (FIN)
+txt20(GritarAuxilio)  los piratas se escapan delante tuyo. (txt18)
+txt21(AyudaDora?NO)  Los piratas solo les importa el tesoro por lo que los dejan en su hogar y se largan. Ahora ustedes se replantean su busqueda.
+txt22(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
+txt23(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
