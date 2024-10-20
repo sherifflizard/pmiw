@@ -1,0 +1,23 @@
+txt0  
+txt1  Eres pazu, un niño minero, de repente ves a una niña que cae del cielo y su collar brilla. Su nombre es Sheeta, decides contarle del mito de Laputa, el cual parece interesarle.
+txt2  Pero de la nada, un grupo de piratas aparece, ¡Rapido, hay que escapar! Decides.....¿tomar el tren para escapar?
+txt3  El gobierno no son quienes aparentan, asi que deciden escapar y ¡PUM! accidentalmente caes junto a sheeta dentro de las minas.
+txt4  Caminando en la oscuridad, tu tio aparece el cual los ayuda a calmarse contándoles mas sobre Laputa. En medio de la charla, el líder de los militares, MOOSKA, aparece, de repente….todo se vuelve oscuro.
+txt5  Te despiertas en un lugar desconocido, Mooska te da una opción, irte y olvidarlo todo a cambio de dinero ¿Lo haces?
+txt6  Vuelves desamparado y triste, para el dolor del corazon no hay nada mejor que....
+txt7  Decides que irte a casa es lo mejor, pero cuando llegas....¡los piratas están aquí! ¿Gritas por auxilio o le pides ayuda a los piratas para encontrar a Sheeta?
+txt8  Pides ayuda a los piratas, tu valentía y buen corazon los convence...¡bienvenido al equipo! Cuando estas llegando en la avioneta, ves a lo lejos como un robot esta destruyendo todo.
+txt9  Consigues agarrar a Sheeta y subirla a la avioneta, huyes junto con los piratas creando una pantalla de humo. Sheeta quiere ir a toda costa a Laputa ya que sabe que MOOSKA es peligroso si la encuentra antes, ¿Le pides ayuda a Dora para que los lleve a Laputa?
+txt10  Los piratas acceden a cambio de que ustedes hagan tareas a cambio. Gracias a un Ala Delta de los piratas llegas a una zona tormentosa, dentro esta Laputa.
+txt11  Exploran un poco, sienten un gran estruendo. El Goliat ha llegado, pero tambien la Polilla del Tigre. Vas a liberar a los piratas pero se percatan de ti y abren fuego. Cuando se van los desatas y Dora te da una pistola.
+txt12  Luego vas por unos pasadizos hasta que te encuentras con Sheeta, ella te da la piedra. MOOSKA aparece y los amenaza con que les de la piedra. Mientars los dos agarran la piedra, Sheeta conjura la destrucción de Laputa.
+txt13  Luego del resplandor despiertas con Sheeta entre raices. Ven el Ala Delta y salen planeando rapidamente, ven a los piratas y te diriges a ellos.
+txt14  Todos estan bien, ven como Laputa se eleva cada vez más. ¿Te quedas con los piratas o vuelves a tu pueblo?
+txt15  Sheeta y tu van a sus hogares mientras los piratas se despiden. (FIN)
+txt16(Tren?NO)  Al no tomar el tren corren, pero son atrapados por los piratas.
+txt17(Tren?NO)  El gobierno aparece y los rescata, llevandolos a una base militar, los separan y MOOSKA te ofrece dinero a cambio de que olivides todo y te vayas. (txt7)
+txt18(Irte-Olvidar)  Vuelves a tu trabajo de minero triste y preocupado, pero sabes que esto es mas grande que vos. (FIN)
+txt19(GritarAuxilio)  los piratas se escapan delante tuyo. (txt18)
+txt20(AyudaDora?NO)  Los piratas solo les importa el tesoro por lo que los dejan en su hogar y se largan. Ahora ustedes se replantean su busqueda.
+txt21(AyudaDora?NO)  Intentan convencer a la gente, pero el sol se empieza a eclipsar, MOOSKA llegó y tiene el control de Laputa.
+txt22(QuedarsePiratas?SI)  Sheeta y tu se unen a la banda de Dora, empezando una vida Pirata.
